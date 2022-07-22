@@ -1,0 +1,11 @@
+nodeId=urn:dev:ops:def001-NODE001-TESTADN001
+nodeResourceId=R61
+registrarCseId=/CSE001
+registrarCseBaseResourceId=R0
+registrarCseBaseResourceName=IN-CSE
+registrarUrl=https://ccspdev2.m2mlab.cdot.in
+saefType=Certificate
+subjectAltName=URI:https://ccspdev2.m2mlab.cdot.in/S0_testAE1
+AE-ID=S0_testAE1
+ACP-ID=R44
+GROUP-ID=R43
